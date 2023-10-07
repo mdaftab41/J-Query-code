@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+}
+.big-title{
+    font-size: 3rem;
+    color:green;
+    font-family: cursive;
+}
+.margin-1{
+    margin: 50;
+}
